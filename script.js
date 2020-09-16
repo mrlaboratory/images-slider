@@ -44,6 +44,7 @@ htag.innerHTML="Picture "+(i+1)+" is now on display";
 
 
 
+console.log('%cDeveloped by Md Mijanur Rahaman 😎\n=> https://fb.com/mdmijanurrahaman.mr \n Website : mrlaboratory.com ', 'font:2.5em Roboto;color:#ff0000')
 
 
 
